@@ -28,6 +28,7 @@ public class IssueController {
 	
 	@RequestMapping(method=RequestMethod.POST, value="/issues")
 	public void addIssue(@RequestBody Issue issue) {
+		System.out.println("Hello KJ");
 		issueService.addIssue(issue);
 	}
 }
