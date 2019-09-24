@@ -1,6 +1,6 @@
 ----------------------------------------------------------------
-Fri Sep 20 08:00:01 CEST 2019:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.13.1.1 - (1765088): instance a816c00e-016d-4d41-740c-00000cf84d68 
+Tue Sep 24 10:06:07 CEST 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.13.1.1 - (1765088): instance a816c00e-016d-624e-4148-000008cef788 
 on database directory memory:C:\Users\C38100\Spring-workspace\jiraApi\testdb with class loader sun.misc.Launcher$AppClassLoader@2a139a55 
 Loaded from file:/C:/Users/C38100/.m2/repository/org/apache/derby/derby/10.13.1.1/derby-10.13.1.1.jar
 java.vendor=Oracle Corporation
